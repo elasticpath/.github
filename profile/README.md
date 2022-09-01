@@ -1,5 +1,5 @@
-<!--[![Elastic Path](https://raw.githubusercontent.com/elasticpath/.github/master/profile/banner.svg)](https://www.elasticpath.com)-->
-[![Elastic Path](banner.svg)](https://www.elasticpath.com)
+[![Elastic Path](https://raw.githubusercontent.com/elasticpath/.github/main/profile/banner.svg)](https://www.elasticpath.com?utm_source=github&utm_medium=profile&utm_campaign=22q4-standard-prospect-all-global-github-profile)
+<!--[![Elastic Path](banner.svg)](https://www.elasticpath.com)-->
 
 Elastic Path powers mission-critical digital commerce for the world’s leading brands, such as Intuit, Pella, Deckers Brands, T-Mobile, and over 250 other [leading enterprises](https://www.elasticpath.com/case-studies?utm_source=github&utm_medium=profile&utm_campaign=22q4-standard-prospect-all-global-github-profile). As relentless innovators, Elastic Path pioneered the API-Commerce space in 2011 and spearheaded [Composable Commerce](https://www.elasticpath.com/composable-commerce?utm_source=github&utm_medium=profile&utm_campaign=22q4-standard-prospect-all-global-github-profile) in 2020. Elastic Path provides industry-leading commerce APIs to help developers rapidly build, deploy, and continuously optimize unique commerce solutions.
 
